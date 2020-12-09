@@ -1,2 +1,13 @@
 /venv/
 /bookmarks/db.sqlite3
+/.idea/
+bookmarks/__pycache__/
+bookmarks/account/__pycache__/
+bookmarks/account/migrations/__pycache__/
+bookmarks/actions/__pycache__/
+bookmarks/actions/migrations/__pycache__/
+bookmarks/actions/templates/
+bookmarks/bookmarks/__pycache__/
+bookmarks/common/__pycache__/
+bookmarks/images/__pycache__/
+bookmarks/images/migrations/__pycache__/
