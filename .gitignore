@@ -1,6 +1,6 @@
 /venv/
 /bookmarks/db.sqlite3
-.idea/
+/.idea/
 bookmarks/__pycache__/
 bookmarks/account/__pycache__/
 bookmarks/account/migrations/__pycache__/
